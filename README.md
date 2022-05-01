@@ -51,9 +51,6 @@
 <a href="https://github.com/badamnshake">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=badamnshake&hide=prs,contribs&show_icons=true&theme=radical&include_all_commits=true&count_private=false"/>
 </a>
-	<div align="center">
-    <img src="https://i.postimg.cc/Jnx9Yf5Z/Git-Hub-Profile-Languages-Brave-05-11-2021-21-34-29-2.png" width="400px"</img> 
-</div>
 </p>
 
 
