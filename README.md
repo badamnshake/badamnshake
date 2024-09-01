@@ -5,8 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=Abdulaziz-04&color=blueviolet&style=flat">
 </p> --->
 
-- 🔭 I’m currently working on ... An Exam system Using <span style="color:red">Pandas, Python</span>.  and <span style="color:blue">C++</span>
-- 🌱 I’m currently working with ... <span style="color:brown">.Net</span> and Microservices with SQL server.
+- 🌱 I’m currently working with ... <span style="color:brown">Pandas, Python</span> and C++.
 
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/badamnshake?tab=repositories)
